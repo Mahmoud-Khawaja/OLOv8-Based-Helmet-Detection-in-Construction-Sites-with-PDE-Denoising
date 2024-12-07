@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/Math-Project/data/train/images
+val: /content/drive/MyDrive/Math-Project/data/val/images
+nc: 3  
+names: ['helmet', 'head', 'person']
